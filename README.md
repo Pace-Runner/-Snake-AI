@@ -1,4 +1,4 @@
-# -Snake-AI
+# Snake-AI
 Snake AI is a Java-based project where an autonomous agent (MyAgent.java) plays the classic Snake game intelligently. The game runs through a provided SnakeRunner.jar file that launches the simulation.
 
 <img width="504" height="499" alt="image" src="https://github.com/user-attachments/assets/07744954-281e-4a71-b823-5817d1a0c4dd" />
