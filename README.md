@@ -8,7 +8,7 @@ Snake AI is a Java-based project where an autonomous agent (MyAgent.java) plays 
 Make sure you have Java 8 or later installed.
 
 📹 Demo  
-(https://youtu.be/E1q_I_Ss_1U)](https://youtu.be/cIZrepKcBbg)
+(https://youtu.be/cIZrepKcBbg)
 
 How it works:
 
