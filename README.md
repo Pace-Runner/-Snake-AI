@@ -10,7 +10,6 @@ Make sure you have Java 8 or later installed.
 
 📹 Demo
 
-Watch the AI in action on YouTube:
 [https://youtu.be/E1q_I_Ss_1U](https://youtu.be/E1q_I_Ss_1U)
 
 How it works:
